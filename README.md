@@ -1,5 +1,5 @@
 # Distributed_Cluster_Control
-The  MATLAB implementation of the article title "Distributed Composite Control of Clustered Network"
+The  MATLAB implementation of the article title "Computationally efficient guaranteed cost control design for clustered networks"
 
 To run the code please run the file "main2_alg.m". To sucessfully run the code SEDUMI and YALMIP should be installed in the system. 
 
